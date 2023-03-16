@@ -1,0 +1,978 @@
+[
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.88",
+"trayek": "Terminal Tanjung Priok - Ancol Barat",
+"jumlah_penumpang": 43967
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.85",
+"trayek": "Bintara - Cipinang Indah",
+"jumlah_penumpang": 40103
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.84",
+"trayek": "Terminal Kampung Melayu - Kapin Raya",
+"jumlah_penumpang": 59193
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.80",
+"trayek": "Rawa Buaya - Rawa Kompeni",
+"jumlah_penumpang": 70475
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.77",
+"trayek": "Tanjung Priok - Jembatan Item",
+"jumlah_penumpang": 77697
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.75",
+"trayek": "Cililitan - Kp. Pulo",
+"jumlah_penumpang": 62086
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.74",
+"trayek": "Terminal Rawamangun - Cipinang Muara",
+"jumlah_penumpang": 58622
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.73",
+"trayek": "Jambore Cibubur - Pasar Rebo",
+"jumlah_penumpang": 86917
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.72",
+"trayek": "Kampung Rambutan - Pasar Rebo via Poncol",
+"jumlah_penumpang": 104712
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.71",
+"trayek": "Kampung Rambutan - Pinang Ranti",
+"jumlah_penumpang": 69365
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.64",
+"trayek": "Lenteng Agung - Aseli",
+"jumlah_penumpang": 66235
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.61",
+"trayek": "Cempaka Putih - Pulo Gadung via Kelapa Gading",
+"jumlah_penumpang": 47929
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.60",
+"trayek": "Kelapa Gading - Rusun Kemayoran",
+"jumlah_penumpang": 70382
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.59",
+"trayek": "Rawamangun - Tanah Merah",
+"jumlah_penumpang": 81467
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.58",
+"trayek": "Cilingcing - Rorotan",
+"jumlah_penumpang": 114592
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.56",
+"trayek": "Grogol - Srengseng",
+"jumlah_penumpang": 60415
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.54",
+"trayek": "Grogol - Benhil",
+"jumlah_penumpang": 57178
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.53",
+"trayek": "Grogol - Pos Pengumben via Slipi",
+"jumlah_penumpang": 68275
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.52",
+"trayek": "Kalideres - Muara Angke",
+"jumlah_penumpang": 86276
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.51",
+"trayek": "Taman Kota - Budi Luhur",
+"jumlah_penumpang": 124003
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.50",
+"trayek": "Kalideres - Puri Kembangan",
+"jumlah_penumpang": 79329
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.49",
+"trayek": "Lebak Bulus - Cipulir",
+"jumlah_penumpang": 53972
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.47",
+"trayek": "Pasar Minggu - Ciganjur via KB Ragunan",
+"jumlah_penumpang": 68695
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.46",
+"trayek": "Pasar Minggu - Jagakarsa",
+"jumlah_penumpang": 109328
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.45",
+"trayek": "Lebak Bulus - Ragunan",
+"jumlah_penumpang": 59932
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.44",
+"trayek": "Andara - Stasiun Universitas Pancasila",
+"jumlah_penumpang": 82948
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.43",
+"trayek": "Tongtek - Cililitan",
+"jumlah_penumpang": 104353
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.42",
+"trayek": "Kampung Melayu - Pondok Kelapa",
+"jumlah_penumpang": 95485
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.41",
+"trayek": "Kampung Melayu - Ppulo Gadung",
+"jumlah_penumpang": 57059
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.40",
+"trayek": "Harapan Baru - Pulo Gebang via Rawa Kuning",
+"jumlah_penumpang": 49918
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.39",
+"trayek": "Kalimalang - Duren Sawit",
+"jumlah_penumpang": 75170
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.38",
+"trayek": "Bulak Ringin - Kampung Rambutan",
+"jumlah_penumpang": 56049
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.37",
+"trayek": "Cililitan - Condet via Kayu Manis",
+"jumlah_penumpang": 71809
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.36",
+"trayek": "Cilangkap - Cililitan",
+"jumlah_penumpang": 88277
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.35",
+"trayek": "Pangkalan Jati - Rawamangun",
+"jumlah_penumpang": 37850
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.34",
+"trayek": "Rawamangun - Klender",
+"jumlah_penumpang": 75763
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.33",
+"trayek": "Pulo Gadung - Kota",
+"jumlah_penumpang": 64986
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.32",
+"trayek": "Lebak Bulus - Petukangan",
+"jumlah_penumpang": 96339
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.31",
+"trayek": "Blok M - Andara",
+"jumlah_penumpang": 80726
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.30",
+"trayek": "Grogol - Meruya via Roxy",
+"jumlah_penumpang": 167782
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.29",
+"trayek": "Tanjung Priok - Sukapura",
+"jumlah_penumpang": 146329
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.28",
+"trayek": "Kp. Rambutan - Taman Wiladatika",
+"jumlah_penumpang": 81435
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.27",
+"trayek": "Pulo Gebang - Rorotan",
+"jumlah_penumpang": 65717
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.26",
+"trayek": "Rawamangun - Duren Sawit",
+"jumlah_penumpang": 51285
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.25",
+"trayek": "Kp. Rambutan - Kalisari",
+"jumlah_penumpang": 64243
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.24",
+"trayek": "Senen - Pulo Gadung via Kelapa Gading",
+"jumlah_penumpang": 101816
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.22",
+"trayek": "Dwikora - Penas Kalimalang",
+"jumlah_penumpang": 22786
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.21",
+"trayek": "Cililitan - Dwikora",
+"jumlah_penumpang": 76970
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.20",
+"trayek": "Cawang UKI - Lubang Buaya",
+"jumlah_penumpang": 62477
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK,19",
+"trayek": "Pinang Ranti - Kampung Rambutan",
+"jumlah_penumpang": 110771
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.18",
+"trayek": "Kalibata - Kuningan",
+"jumlah_penumpang": 43349
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.17",
+"trayek": "Senen - Pulo Gadung ",
+"jumlah_penumpang": 62285
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.16",
+"trayek": "Cililitan - Condet via Kayu Manis",
+"jumlah_penumpang": 90254
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.15",
+"trayek": "Bulak Turi - Tanjung Priok",
+"jumlah_penumpang": 152585
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.14",
+"trayek": "Tanah Abang - Meruya",
+"jumlah_penumpang": 125777
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.13",
+"trayek": "Tanah Abang - Kota Intan via Jembatan Lima",
+"jumlah_penumpang": 24193
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.12",
+"trayek": "Tanah Abang - Kebayoran Lama via Pos Pengumben",
+"jumlah_penumpang": 78580
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.117",
+"trayek": "Tanjung Priok - Tanah Merdeka",
+"jumlah_penumpang": 106506
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.112",
+"trayek": "Terminal Tanah Merah - Pulo Gadung",
+"jumlah_penumpang": 70986
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.11",
+"trayek": "Tanah Abang - Kebayoran Lama ",
+"jumlah_penumpang": 87568
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.10B",
+"trayek": null,
+"jumlah_penumpang": 4085
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.10A",
+"trayek": null,
+"jumlah_penumpang": 33992
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.10",
+"trayek": "Tanah Abang - Kota ",
+"jumlah_penumpang": 62581
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.09",
+"trayek": "Roxy Mas - Karet",
+"jumlah_penumpang": 33555
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.08",
+"trayek": "Roxy - Benhil",
+"jumlah_penumpang": 50409
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.07",
+"trayek": "Tanah Abang - Grogol via Tawakal",
+"jumlah_penumpang": 69904
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.06",
+"trayek": "Kampung Rambutan - Pondok Gede",
+"jumlah_penumpang": 70907
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.05",
+"trayek": "Semper - Rorotan",
+"jumlah_penumpang": 74100
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.04",
+"trayek": "Grogol - Tubagus Angke",
+"jumlah_penumpang": 57870
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.03",
+"trayek": "Lebak Bulus - Andara",
+"jumlah_penumpang": 43991
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.02",
+"trayek": "Kampung Melayu - Duren Sawit",
+"jumlah_penumpang": 59985
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Mikrotrans",
+"kode_trayek": "JAK.01",
+"trayek": "Tanjung Priok - Plumpang",
+"jumlah_penumpang": 75915
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 9,
+"trayek": "Pinang Ranti - Pluit",
+"jumlah_penumpang": 819178
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 8,
+"trayek": "Lebak Bulus - Harmoni",
+"jumlah_penumpang": 533221
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 7,
+"trayek": "Kampung Rambutan - Kampung Melayu",
+"jumlah_penumpang": 402368
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 6,
+"trayek": "Ragunan - Dukuh Atas 2",
+"jumlah_penumpang": 401232
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 5,
+"trayek": "Kampung Melayu - Ancol",
+"jumlah_penumpang": 513138
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 4,
+"trayek": "Pulo Gadung 2 - Tosari",
+"jumlah_penumpang": 319411
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 3,
+"trayek": "Kalideres - Pasar Baru",
+"jumlah_penumpang": 465124
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 2,
+"trayek": "Pulo Gadung 1 - Harmoni",
+"jumlah_penumpang": 380760
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 13,
+"trayek": "Ciledug - Tendean",
+"jumlah_penumpang": 337233
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 12,
+"trayek": "Penjaringan - Sunter Bouleverd Barat",
+"jumlah_penumpang": 167399
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 11,
+"trayek": "Pulo Gebang - Kampung Melayu",
+"jumlah_penumpang": 163776
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 10,
+"trayek": "Tanjung Priok - PGC 2",
+"jumlah_penumpang": 419198
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "BRT",
+"kode_trayek": 1,
+"trayek": "Blok M - Kota",
+"jumlah_penumpang": 1131439
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "9H",
+"trayek": "Cipedak - Blok M",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "9E",
+"trayek": "Kebayoran Lama - Jelambar",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "9D",
+"trayek": "Pasar Minggu - Tanah Abang",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "8K",
+"trayek": "Batu Sari-Tanah Abang",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "8E",
+"trayek": "Bintaro - Blok M",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "8D",
+"trayek": "Joglo - Blok M",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "8C",
+"trayek": "Kebayoran Lama - Tanah Abang",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "7P",
+"trayek": "Pondok Kelapa - BKN",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "7D",
+"trayek": "Pancoran - TMII",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "7B",
+"trayek": "Kampung Rambutan - Blok M",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "7A",
+"trayek": "Kampung Rambutan - Lebak Bulus",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "6R",
+"trayek": "Ragunan - Stasin MRT Fatmawati",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "6N",
+"trayek": "Ragunan - Blok M via Kemang",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "6M",
+"trayek": "Stasiun Manggarai - Blok M",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "6H",
+"trayek": "Senen - Lebak Bulus",
+"jumlah_penumpang": 8
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "6C",
+"trayek": "Stasin Tebet - Karet via Patra Kuningan",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "5M",
+"trayek": "Kampung Melayu - Tanah Abang via Cikini",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "5F",
+"trayek": "Kampung Melayu - Tanah Abang",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "5B",
+"trayek": "Stasiun Tebet - Bidara Cina",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "4F",
+"trayek": "Pinang Ranti - Pulo Gadung",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "4B",
+"trayek": "Stasiun Manggarai - UI",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "3E",
+"trayek": "Sentraland Cengkareng - Puri Kembangan",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "1R",
+"trayek": "Senen - Tanah Abang",
+"jumlah_penumpang": 176
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "1Q",
+"trayek": "Rempoa - Blok M",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "1P",
+"trayek": "Senen - Bundaran Senayan",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "1N",
+"trayek": "Tanah Abang - Blok M",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "1M",
+"trayek": "Meruya - Blok M",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "1H",
+"trayek": "Tanah Abang - Stasiun Gondangdia",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "1F",
+"trayek": "Stasiun Palmerah - Bundaran Senayan",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "1E",
+"trayek": "Pondok Labu - Blok M",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "1C",
+"trayek": "Pesanggrahan - Blok M",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "1B",
+"trayek": "Stasiun Palmerah - Tosari",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "1A",
+"trayek": "PIK - Balai Kota",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "12B",
+"trayek": "Pluit - Senen",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "11Q",
+"trayek": "Kampung Melayu - Pulo Gebang via BKT",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "11D",
+"trayek": "Pulo Gebang - Pulo Gadung 2 via PIK",
+"jumlah_penumpang": 0
+},
+{
+"tahun": 2021,
+"bulan": 12,
+"jenis": "Angkutan Umum Integrasi",
+"kode_trayek": "10K",
+"trayek": "Tanjung Priok - Senen via Taman BMW",
+"jumlah_penumpang": 0
+}
+]
